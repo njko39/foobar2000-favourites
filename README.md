@@ -13,9 +13,12 @@ Add option to favourite songs through SpiderMonkey panel
 - If you renamed song in metadata (not filename or path), you need to manually favourite it again!
 
 # How to install:
-1. Install [SpiderMonkey Panel](https://github.com/theqwertiest/foo_spider_monkey_panel) component
+1. Install [SpiderMonkey Panel](https://github.com/theqwertiest/foo_spider_monkey_panel) component (make sure your foobar2000 is 32-bit)
 2. Go to View > Layout > Enable layout editing mode
 3. Add horizontal panel anywhere with right click (Choose Utility > Spider Monkey Panel)
 4. Right click new panel > Edit panel script
 5. Paste script from [fb2k-favourites.js](https://github.com/njko39/foobar2000-favourites/blob/main/fb2k-favourites.js)
 6. Disable layout editing mode
+
+## Alternatively:
+You can use sample theme from screenshot above! Download [simple-theme-with-favourites.fth](https://github.com/njko39/foobar2000-favourites/blob/main/simple-theme-with-favourites.fth). After installing SpiderMonkey panel open `File > Preferences > Display > Default User Interface > Import theme` and choose the file you downloaded :>  
