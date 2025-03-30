@@ -4,7 +4,7 @@ Add option to favourite songs through SpiderMonkey panel
 
 # Features:
 - Add songs to favourite with ❤️ button 
-- Make a plalist of them with ⭐ button
+- Make a playlist of them with ⭐ button
 
 > Favorites are saved by artist and title in \foobar2000\profile\favorites.json file
 
