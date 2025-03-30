@@ -18,3 +18,4 @@ Add option to favourite songs through SpiderMonkey panel
 3. Add horizontal panel anywhere with right click (Choose Utility > Spider Monkey Panel)
 4. Right click new panel > Edit panel script
 5. Paste script from [fb2k-favourites.js](https://github.com/njko39/foobar2000-favourites/blob/main/fb2k-favourites.js)
+6. Disable layout editing mode
